@@ -1,0 +1,7 @@
+
+.idea/
+.venv
+config.local.json
+*.pyc*
+db.sqlite3
+backend/logs/*.log*
